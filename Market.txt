@@ -1,0 +1,9 @@
+Who is the intended customer/ target segment? Define the target segment.?
+The intended customer for this project are business owners or brands who seek to maintain their reputation in the market by learning what makes their customers happy or frustrated so that they can tailor products and services to meet their customer's needs.
+
+
+What is the market size?
+In the changed post COVID-19 business landscape, the global market for Sentiment Analytics estimated at US$2.7 Billion in the year 2020, is projected to reach a revised size of US$6.7 Billion by 2027, growing at a CAGR of 14.1% over the analysis period 2020-2027. Retail, one of the segments analyzed in the report, is projected to record a 13.3% CAGR and reach US$2.6 Billion by the end of the analysis period. Taking into account the ongoing post pandemic recovery, growth in the BFSI segment is readjusted to a revised 14.6% CAGR for the next 7-year period.
+
+
+What is the market growth?
